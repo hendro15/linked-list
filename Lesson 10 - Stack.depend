@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557674705 source:/home/sonic/Documents/UNNES/Teaching/Teknik Pemrograman/Lesson 10 - Stack/main.cpp
+	<iostream>
+	"MemberFunction.h"
+
+1557674354 /home/sonic/Documents/UNNES/Teaching/Teknik Pemrograman/Lesson 10 - Stack/MemberFunction.h
+	<iostream>
+
